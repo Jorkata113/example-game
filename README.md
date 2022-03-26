@@ -1,2 +1,2 @@
 # example-game
-oPECA E
+OPECA E
